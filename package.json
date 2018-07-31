@@ -1,0 +1,20 @@
+{
+    "name": "app-boilerplate",
+    "version": "1.0.0",
+    "description": "app boilerplate",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/tangl2014/app-boilerplate.git"
+    },
+    "author": "km7",
+    "license": "MIT",
+    "devDependencies": {
+      "babel-eslint": "^8.2.5",
+      "babel-preset-env": "^1.7.0",
+      "babel-preset-stage-0": "^6.24.1",
+      "chalk": "^2.4.1",
+      "eslint": "^5.0.1",
+      "lint-staged": "^7.2.0",
+      "yorkie": "^1.0.3"
+    }
+  }
